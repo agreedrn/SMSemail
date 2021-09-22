@@ -11,7 +11,7 @@ class MyFirstGUI:
     def __init__(self, master):
         self.master = master
         master.title("SMS MESSAGE VIA EMAIL")
-        self.semail = "4163581222@txt.bell.ca"
+        self.semail = "censored@txt.bell.ca"
         self.new_semail = self.semail.split("@")
         self.messages_frame = tkinter.Frame(master)
         self.my_msg = tkinter.StringVar()  # For the messages to be sent.
