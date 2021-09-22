@@ -45,9 +45,9 @@ class MyFirstGUI:
 
     def send_email(self):
         port = 465  # For SSL
-        password = "vershu1317"
+        password = "censored"
         remail = "rishismsservice@gmail.com"
-        semail = "4163581222@txt.bell.ca"
+        semail = "censored@txt.bell.ca"
 
         # Create a secure SSL context
         context = ssl.create_default_context()
