@@ -70,8 +70,8 @@ class MyFirstGUI:
         while True:
             imap_host = 'imap.gmail.com'
             imap_user = 'rishismsservice@gmail.com'
-            imap_user_pass = "vershu1317"
-            semail = "4163581222@txt.bell.ca"
+            imap_user_pass = "censored"
+            semail = "censored@txt.bell.ca"
 
             # init imap connection
             mail = imaplib.IMAP4_SSL(imap_host, 993)
